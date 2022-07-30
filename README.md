@@ -1,1 +1,2 @@
-# Business-Analysis-
+# Business analysis for chinook records
+SQL project
